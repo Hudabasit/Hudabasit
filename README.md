@@ -1,6 +1,7 @@
 👋 Hi, I’m Huda basit
 
-![Mauve and White Watercolor LinkedIn Article Cover Image (7)](https://github.com/Hudabasit/Hudabasit/assets/134541252/05e3ff1c-f201-46b8-91e5-29a96a1eb73c)
+![Mauve and White Watercolor LinkedIn Article Cover Image (8)](https://github.com/Hudabasit/Hudabasit/assets/134541252/3dbd96b8-ab14-4270-b255-a2224514fb04)
+
 
 I'm a Data Scientist | Data Analyst. I'm driven by my passion for leveraging data analysis and machine learning to tackle real-world challenges and uncover valuable insights. 
 
